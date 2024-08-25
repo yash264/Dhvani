@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  padding: 4px 6px;
+}
+
+h1{
+  background-color: rgba(102, 245, 131, 0.62);
+}
+
+h3{
+  background-color: rgba(99, 211, 241, 0.795);
+}
+
+.footer{
+  text-align: center;
+  background-color: rgba(20, 20, 20, 0.82);
+  color:white;
+}
+
+img{
+  width:160px;
+  text-align: center;
+}
